@@ -1,4 +1,4 @@
-##In this repository you can see my life first assignment
+#In this repository you can see my life first assignment
 
 # TypeScript Loops Practice
 
